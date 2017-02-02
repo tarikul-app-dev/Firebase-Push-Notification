@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "513054292617",
+    "firebase_url": "https://fcmtest-34678.firebaseio.com",
+    "project_id": "fcmtest-34678",
+    "storage_bucket": "fcmtest-34678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513054292617:android:50383b0693487f4e",
+        "android_client_info": {
+          "package_name": "com.example.tarikul.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513054292617-jhrtlubm4ggcjm4q5trtmfb6rgp85os5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBV27Z436VoorQbZVbCqii9Dl1Kg729zA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
